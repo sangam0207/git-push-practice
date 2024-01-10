@@ -4,7 +4,7 @@ import Login from "./components/Login";
 import Register from "./components/Register";
 import Dashboard from "./components/Dashboard";
 import axios from "axios";
-import Loading from "./components/Loading";
+
 import { Route, Routes, useNavigate } from "react-router-dom";
 import Error from "./components/Error";
 import {LoginContext} from './components/ContextProvider/Context'
